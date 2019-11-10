@@ -1,0 +1,11 @@
+{
+    "PORT":"8080",
+    "Mongo":{
+        "user":"MONGO_USER",
+        "password":"MONGO_PASS",
+        "host":"MONGO_HOST",
+        "port": "MONGO_PORT",
+        "db":"MONGO_DB"
+  
+      }
+}
