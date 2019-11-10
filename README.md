@@ -7,9 +7,9 @@ NODE_ENV='dev' nodemon app.js
 ## About project 
 
 
-##Api Documentation
+## Api Documentation
 
-###Login:
+### Login:
   Method: POST
   Parameters: 
     email: <string>
@@ -18,7 +18,7 @@ NODE_ENV='dev' nodemon app.js
     device_token: <string>
   endpoint:/login
   
-###register
+### register
   Method: POST
   Parameters:
     name:<string>
@@ -32,7 +32,7 @@ NODE_ENV='dev' nodemon app.js
     device_token:<string>
   endpoint:/register
   
-###update_profile
+### update_profile
   Method: PUT
   Parameters:
     access_token:<string>
@@ -44,7 +44,7 @@ NODE_ENV='dev' nodemon app.js
     name:<string>
  endpoint:/update_profile
   
-###view_profile
+### view_profile
   Method: GET
   Parameters:
      access_token:<string>
@@ -52,7 +52,7 @@ NODE_ENV='dev' nodemon app.js
      name:<string>
   endpoint:/view_profile
   
- ###logout
+ ### logout
   Method: POST
   Parameters:
     access_token:<string>
