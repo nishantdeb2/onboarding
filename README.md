@@ -1,11 +1,8 @@
-##Onboarding
+## Onboarding
 Api's for user to onboard to a platform.
 
 ## to start server 
 NODE_ENV='dev' nodemon app.js 
-
-## About project 
-
 
 ## Api Documentation
 
